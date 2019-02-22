@@ -1,0 +1,20 @@
+.center{
+	text-align:center;
+}
+
+.container div.reto1 div{
+	background-color: green;
+}
+.container div.reto2 div{
+	background-color: orange;
+
+}
+.container div.reto3 div{
+	background-color: red;
+
+}
+.container .row div{
+	border:1px solid #00FFBF;
+	height: 50px;
+	color: white;
+}
